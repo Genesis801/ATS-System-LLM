@@ -1,0 +1,1 @@
+web: streamlit run --server.port $PORT ats_app.py
